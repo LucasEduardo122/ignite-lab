@@ -1,6 +1,6 @@
 <h2 align="center">
   <div>
-    <img alt="Logo" title="#logo" src=".github/assets/logo.svg" width="400"/>
+    <img alt="Logo" title="#logo" src="https://media.discordapp.net/attachments/571752920685477889/992625154318413824/Group_1.png?width=187&height=27" width="400"/>
   <div>
 </h2>
 
@@ -39,10 +39,10 @@
 </p>
 
 <h1 align="center">
-    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="Home" src=".github/assets/home.png" />
+    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="Home" src="https://media.discordapp.net/attachments/571752920685477889/992625154867859466/Login_-_Desktop.png?width=808&height=635" />
   <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Class-01" title="Class-01" src=".github/assets/class-01.png" />
-    <img width="400" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src=".github/assets/class-02.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Class-01" title="Class-01" src="https://media.discordapp.net/attachments/571752920685477889/992625154591031326/Plataforma_-_Desktop.png?width=686&height=635" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="https://media.discordapp.net/attachments/571752920685477889/992625154591031326/Plataforma_-_Desktop.png?width=686&height=635" />
   <div>
 </h1>
 
