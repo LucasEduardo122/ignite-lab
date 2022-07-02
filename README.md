@@ -83,9 +83,9 @@ $ yarn
 # ou
 $ npm install
 
-# atualize o arquivo .example.env para suas variáveis graphcms
+# atualize o arquivo .env.example para suas variáveis graphcms
 
-# renomei o arquivo .example.env para .env.local
+# renomei o arquivo .env.example para .env.local
 
 # Rode a aplicação
 $ yarn dev
